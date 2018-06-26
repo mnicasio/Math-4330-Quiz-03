@@ -3,5 +3,4 @@ Functions do the following:
 1)vector subtraction
 2)vector dot product 
 3)vector and scalar multiplication
-4)infinity norm generator 
-5)normalize vector using infinity norm 
+4)infinity norm generator & normalize vector using infinity norm (they are in the same file) 
